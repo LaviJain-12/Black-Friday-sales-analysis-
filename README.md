@@ -16,3 +16,9 @@ This project analyzes **Black Friday sales data** to find:
 - Males in the 26-35 age group are the highest spenders
 - City category B contributes most to revenue
 - Singles spend slightly more than married people
+
+# Here are some snap shots 
+ This shows the libraries that I used in my project 
+![WhatsApp Image 2025-07-19 at 19 14 49_6cec82b3](https://github.com/user-attachments/assets/66aa4807-3e77-42a1-bb99-88ce673b4044)
+
+
