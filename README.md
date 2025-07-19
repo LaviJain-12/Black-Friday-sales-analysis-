@@ -21,4 +21,8 @@ This project analyzes **Black Friday sales data** to find:
  This shows the libraries that I used in my project 
 ![WhatsApp Image 2025-07-19 at 19 14 49_6cec82b3](https://github.com/user-attachments/assets/66aa4807-3e77-42a1-bb99-88ce673b4044)
 
+ This shows all the heads(column name) of the dataset  
+![WhatsApp Image 2025-07-19 at 18 00 51_dcedb63d](https://github.com/user-attachments/assets/aeabb9f7-1479-44c7-8618-b7d4c154ce5b)
+
+
 
